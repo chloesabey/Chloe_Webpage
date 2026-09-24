@@ -1,29 +1,46 @@
 /* the * indicates universal styles, we will get into that later in the semester
 for now, you can leave these alone */
-@import url(https://googleapis.com')
 
 * {
-    /* margin: 0;
-    padding: 0;
-    box-sizing: border-box; */
+    margin: 5px;
+    padding: 5px;
 }
-/* Css is how we add all things style, below there are two simple styles added
-go ahead and play with these, can you get the colors to change? What do you notice?
- */
 
-
- img {
+header {
+    background-color: rgb(14, 13, 13);
+	padding: 7px 30px 8px;
+}
+/* center-image {
+    margin: 200px
+} */
+img {
     width: 100%;
- }
+}
+
+nav a { link-container
+    display: inline-block;
+    padding: 0 25px;
+    text-decoration: none;
+}
+
+nav a {
+    color:rgb(200, 200, 154);
+    font-family: Helvetica;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 25px;
+    border: dotted rgb(116, 52, 85)
+}
 
  nav {
+    text-decoration: none;
     text-align: center;
     font-size: 20px;
  }
 
 body {
-    color: #cc0c7f;
-    background-color: #d9e7af;
+    color: rgb(42, 2, 27);
+    background-color: rgb(77, 44, 64);
     font-family: "IM Fell DW Pica", serif;
     font-weight: 400;
     font-style: normal;
@@ -32,7 +49,7 @@ body {
 
  h1 {
     text-align: center;
-    color: #58163e;
+    color: rgb(88, 22, 62);
     font-family: "UnifrakturMaguntia", cursive;
     font-weight: 400;
     font-style: normal;
@@ -50,4 +67,4 @@ p {
 }
 
 
-
+ */
