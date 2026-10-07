@@ -7,29 +7,41 @@ for now, you can leave these alone */
 }
 
 header {
-    background-color: rgb(14, 13, 13);
-	padding: 7px 30px 8px;
+    background-color: rgb(181, 182, 114);
+	padding: 5px;
 }
 /* center-image {
     margin: 200px
 } */
-img {
-    width: 100%;
+
+header a {
+    font-family: "adobe-caslon-pro", serif;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(200, 208, 235);
+    font-size: 100px;
 }
 
+img {
+    height: 924px;
+    width:1336px;
+    object-fit: cover;
+    display: block; 
+}
 nav a { link-container
     display: inline-block;
     padding: 0 25px;
     text-decoration: none;
+    text-align: inline-block;
 }
 
 nav a {
-    color:rgb(200, 200, 154);
+    color:rgb(148, 122, 140);
     font-family: Helvetica;
     font-weight: 1000;
     font-style: normal;
     font-size: 25px;
-    border: dotted rgb(116, 52, 85)
+    border: thick dotted rgb(192, 140, 167)
 }
 
  nav {
@@ -40,7 +52,7 @@ nav a {
 
 body {
     color: rgb(42, 2, 27);
-    background-color: rgb(77, 44, 64);
+    background-color: rgb(231, 231, 220);
     font-family: "IM Fell DW Pica", serif;
     font-weight: 400;
     font-style: normal;
