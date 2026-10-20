@@ -224,8 +224,110 @@ h4 {
     /* border: dotted black 2px; */
 }
 
+.baby-header h2 {
+    /* background-color: brown; */
+    text-align: center;
+    border: solid black 1px;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding: 2%;
+    padding-bottom: 0%;
+    padding-left: 0.5%;
+    padding-top: 3%;
+    text-align: left;
+    font-size: 40px;
+    /* text-align: initial; */
+}
 
+.inspo-content {
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;   
+    padding: 0%;
+    margin-left: 1%;
+    margin-right:1%;
+}
 
+.inspo-one {
+    /* background-color: pink; */
+}
+
+.Lid-Thom {
+    /* background-color: blue; */
+    border: solid black 1px;
+    padding: 3%;
+    margin: 2%;
+    font-size: 20px;
+}
+
+.image-one {
+    /* background-color: chartreuse; */
+    align-self: center;
+}
+
+.lid-thom-text {
+    /* background-color: blueviolet; */
+    border: solid black 1px;
+    padding: 3%;
+    margin: 2%;
+}
+
+.inspo-two {
+    /* background-color: chocolate; */
+}
+
+.Trey-Flanigan {
+    /* background-color: crimson; */
+    border: solid black 1px;
+    padding: 3%;
+    margin: 2%;
+    font-size: 20px;
+}
+.image-two {
+    /* background-color: darksalmon; */
+    align-self: center;
+}
+.trey-text {
+/* background-color: darkmagenta; */
+    border: solid black 1px;
+    padding: 3%;
+    margin: 2%;
+
+}
+.inspo-three {
+    /* background-color: red; */
+}
+.maria {
+    /* background-color: darkorange; */
+    border: solid black 1px;
+    padding: 4%;
+    margin: 2%;
+    font-size: 20px;
+
+}
+.image-three {
+    /* background-color: darkcyan; */
+    align-self: center;
+}
+.maria-text {
+    /* background-color: chartreuse; */
+    border: solid black 1px;
+    padding: 3%;
+    margin: 2%;
+}
+.project-links {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;  
+    padding: 2%;
+    margin: 2%;
+    font-size: 30px;
+    border: solid black 1px;
+}
 
 
 
