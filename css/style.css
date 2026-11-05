@@ -131,6 +131,7 @@ section {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
+    width: 30%;
 }
 
 .about-me {
