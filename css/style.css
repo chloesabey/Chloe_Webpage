@@ -7,7 +7,15 @@ for now, you can leave these alone */
     box-sizing: border-box;
 }
 
+html {
+    font-size: 16px;
+}
+
 body {
+    width: 100%;
+    min-height: 100vh;
+    /* border: 5px dashed red; */
+
     background-color: rgb(248, 229, 219);
     color: rgb(0, 0, 0);
     font-family: "sets-grotesk-l", sans-serif;
