@@ -9,9 +9,11 @@
 
 body {
 
-  height: 760px;
+  /* height: 760px; */
   /* set min-height to what? */
-  width: 1280px;
+  min-height: 100%;
+  border: red dotted 5px;
+  /* width: 1280px; */
   /* set width to what? */
   background-color: lightblue;
   /* margin: ?; */
@@ -83,6 +85,7 @@ a {
 
 #viewportImage {
   width: 25%;
+
 }
 
 #before, #after {
