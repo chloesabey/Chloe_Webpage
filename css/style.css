@@ -140,6 +140,14 @@ section {
     flex-direction: column;
     flex-wrap: nowrap;
     width: 30%;
+
+    position: relative;
+    transition-duration: 0.5s;
+    
+}
+
+.side-images:hover {
+    transform: scale(120%)
 }
 
 .about-me {
